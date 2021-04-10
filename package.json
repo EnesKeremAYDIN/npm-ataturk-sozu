@@ -1,0 +1,24 @@
+{
+  "name": "ataturk-sozu",
+  "version": "2.0.0",
+  "description": "Bir yada daha fazla Mustafa Kemal Atatürk'e ait söz çıktısı alın.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnesKeremAYDIN/ataturk-sozu.git"
+  },
+  "keywords": [
+    "Atatürk",
+    "söz",
+    "ataturk-sozu"
+  ],
+  "author": "Enes Kerem \"EKA\" AYDIN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnesKeremAYDIN/ataturk-sozu/issues"
+  },
+  "homepage": "https://github.com/EnesKeremAYDIN/ataturk-sozu#readme"
+}
