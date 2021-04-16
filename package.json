@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EnesKeremAYDIN/ataturk-sozu.git"
+    "url": "git+https://github.com/EnesKeremAYDIN/npm-ataturk-sozu.git"
   },
   "keywords": [
     "Atatürk",
@@ -18,7 +18,7 @@
   "author": "Enes Kerem \"EKA\" AYDIN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EnesKeremAYDIN/ataturk-sozu/issues"
+    "url": "https://github.com/EnesKeremAYDIN/npm-ataturk-sozu/issues"
   },
-  "homepage": "https://github.com/EnesKeremAYDIN/ataturk-sozu#readme"
+  "homepage": "https://github.com/EnesKeremAYDIN/npm-ataturk-sozu#readme"
 }
