@@ -1,6 +1,6 @@
 {
   "name": "ataturk-sozu",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "Bir yada daha fazla Mustafa Kemal Atatürk'e ait söz çıktısı alın.",
   "main": "index.js",
   "scripts": {
