@@ -33,7 +33,6 @@ var wordList = [
 "Ben, sadece evlenmek için evlenmek istemiyorum. Vatanımızda yeni bir aile yaşamı yaratmak için önce kendim örnek olmalıyım. Kadın böyle umacı gibi kalır mı?",
 "Ben, savaşlarda dahi düşmanın üzerinde bir kin duymam; yalnız askerlik kurallarının uygulanmasını düşünürüm.",
 "Beni görmek demek mutlaka yüzümü görmek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu kafidir.",
-"Benim bir dinim yok ve bazen bütün dinlerin denizin dibini boylamasını istiyorum. Hükûmetini ayakta tutmak için dini kullanmaya gerek duyanlar zayıf yöneticilerdir. Âdetâ halkı bir kapana kıstırırlar. Benim halkım demokrasi ilkelerini, gerçeğin emirlerini ve bilimin öğretilerini öğrenecektir. Batıl inançlardan vazgeçilmelidir. İsteyen istediği gibi ibadet edebilir. Herkes kendi vicdanının sesini dinler. Ama bu davranış ne sağduyulu mantıkla çelişmeli ne de başkalarının özgürlüğüne karşı çıkmasına yol açmalıdır.",
 "Benim gözümde hiçbir şey yoktur; ben yalnız liyakat âşığıyım.",
 "Benim naçiz vücudum bir gün elbet toprak olacaktır fakat Türkiye Cumhuriyeti sonsuza dek yaşayacaktır. Ve Türk milleti güven ve mutluluğun kefili olan ilkelerle, uygarlık yolunda, tereddütsüz yürümeye devam edecektir.",
 "Benim Türk milletine, Türk cemiyetine, Türklüğün istikbaline ait ödevlerim bitmemiştir, siz onları tamamlayacaksınız. Siz de sizden sonrakilere benim sözümü tekrar ediniz.",
