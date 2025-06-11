@@ -1,24 +1,31 @@
 {
   "name": "ataturk-sozu",
-  "version": "2.0.2",
+  "version": "3.0.0",
   "description": "Bir yada daha fazla Mustafa Kemal Atatürk'e ait söz çıktısı alın.",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "data/wordList.json"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EnesKeremAYDIN/npm-ataturk-sozu.git"
+    "url": "git+https://github.com/EnesKeremAYDIN/npm-ataturk-sozu.git",
+    "bugs": {
+      "url": "https://github.com/EnesKeremAYDIN/npm-ataturk-sozu/issues"
+    },
+    "homepage": "https://github.com/EnesKeremAYDIN/npm-ataturk-sozu#readme"
   },
   "keywords": [
     "Atatürk",
     "söz",
     "ataturk-sozu"
   ],
-  "author": "Enes Kerem \"EKA\" AYDIN",
+  "author": "Enes Kerem AYDIN",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/EnesKeremAYDIN/npm-ataturk-sozu/issues"
-  },
-  "homepage": "https://github.com/EnesKeremAYDIN/npm-ataturk-sozu#readme"
+  "engines": {
+    "node": ">=0.10.0"
+  }
 }
