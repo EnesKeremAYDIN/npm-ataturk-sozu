@@ -1,6 +1,7 @@
 # ataturk-sozu
 
 [![NPM](https://img.shields.io/badge/NPM-red?logo=NPM&style=flat-square)](https://www.npmjs.com/package/ataturk-sozu)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&style=flat-square)](https://github.com/EnesKeremAYDIN/npm-ataturk-sozu)
 
 ## Bir yada daha fazla Mustafa Kemal Atatürk'e ait söz çıktısı alın.
 
